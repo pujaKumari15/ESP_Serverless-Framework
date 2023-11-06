@@ -1,3 +1,3 @@
 # ESP_Serverless-Framework
 
-An application to resize the Images using AMS lambda.
+An application to resize the images using AMS lambda.
